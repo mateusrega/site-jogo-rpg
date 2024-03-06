@@ -1,3 +1,4 @@
-    body{background-color:rgb(184, 255, 255);margin-left: 500px;}
+    body{background-color:rgb(184, 255, 255);}
     h1{text-align: center;}
-    .img{text-align: center;width: 666px; height: 600px;}
+    h2{text-align: center;}
+    .img{text-align: center;width: 666px; height: 600px;margin-left: 500px;}

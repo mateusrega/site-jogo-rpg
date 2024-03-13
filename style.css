@@ -2,4 +2,4 @@
     h1{text-align: center;font-size:8em; margin: 0%;}
     h2{text-align: center;font-size:4em;margin-top: 0%;}
     .img{text-align: center;width: 666px; height: 600px;margin-left: 620px;}
-    .iniciar{margin-left: 859px;width: 300px; height: 180px;background: url("..\img\ 28 de fev. de 2024 às 10_56.jpg");}
+    .iniciar{display: flex; 859px;width: 300px; height: 180px;background: url("..\img\ 28 de fev. de 2024 às 10_56.jpg");}

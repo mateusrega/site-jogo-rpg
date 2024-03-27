@@ -1,4 +1,4 @@
-html{cursor: none;}
+html{cursor:url(cursor1.png);}
 body{background-color: rgb(184, 255, 255);display: flex ;}
 h1{margin: 30px;}
 p{margin: 20px;}
